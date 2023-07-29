@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  quartz:
+    build: .
+    ports:
+      - "80:80"
+      - "1313:1313"
+    volumes:
+      - ".:/www"
