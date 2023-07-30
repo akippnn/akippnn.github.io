@@ -63,3 +63,8 @@ other = "Indice"
 
 [copyright]
 other = "Realizzato da {{ .name }} con <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+
+# Additions for akippnn.github.io
+
+[discussions_disabled]
+other = "Discussions are disabled for this page"

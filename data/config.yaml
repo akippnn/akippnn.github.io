@@ -1,12 +1,12 @@
 name: Aki
 enableToc: true
-openToc: false
+openToc: true 
 enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: true
+enableCodeBlockTitle: true 
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
@@ -18,10 +18,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Aki's digital garden.
 page_title:
-  "✨ Aki"
+  "🍂 Aki"
 links:
   - link_name: GitHub
     link: https://github.com/akippnn
