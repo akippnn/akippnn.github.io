@@ -67,4 +67,4 @@ other = "Realizzato da {{ .name }} con <a href=\"https://github.com/jackyzha0/qu
 # Additions for akippnn.github.io
 
 [discussions_disabled]
-other = "Discussions are disabled for this page"
+other = "Le discussioni sono disattivate per questa pagina"

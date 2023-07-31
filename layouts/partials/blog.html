@@ -1,0 +1,5 @@
+<div class="content-list">
+  <h2><a href='blog'>{{ i18n "blog_notes" }}️</a></h2>
+  {{$notes  := (where .Site.RegularPages "Section" "blog").ByDate}}
+  {{partial "page-list.html" (first 3 $notes)}}
+</div>

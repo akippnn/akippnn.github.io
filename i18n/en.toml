@@ -49,8 +49,8 @@ other = "Search Icon"
 [icon_search]
 other = "Icon to open search"
 
-[recent_notes]
-other = "Recent Notes"
+#[recent_notes]
+#other = "Recent Notes"
 
 [first_3_notes]
 other = "first 3 {{ .notes }}"
@@ -68,3 +68,9 @@ other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz
 
 [discussions_disabled]
 other = "Discussions are disabled for this page"
+
+[blog_notes]
+other = "📰 Blog Posts"
+
+[recent_notes]
+other = "🗓️ Updated Recently"

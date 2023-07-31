@@ -67,4 +67,4 @@ other = "صُمم بواسطة {{ .name }} باستخدام <a href='https://git
 # Additions for akippnn.github.io
 
 [discussions_disabled]
-other = "Discussions are disabled for this page"
+other = "تم تعطيل المناقشات لهذه الصفحة"

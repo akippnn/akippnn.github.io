@@ -3,9 +3,11 @@ title: akippnn.github.io
 enableToc: false
 ---
 
-> [!note] This site is a work-in-progress  
+> [!warning] This site is a work-in-progress  
 > See [[tags/site|#site]] for more information.
 
-## [[blog|📰 Blog]]
+Welcome to my digital garden 🪴.
 
-## [[notes|📒 Notebook]]
+You encountered a clean canvas. You may proceed to [[notes|📒 Notebook]], but there's not much to see for now.
+
+Feel free to contribute by visiting the [site's repository](https://github.com/akippnn/akippnn.github.io).

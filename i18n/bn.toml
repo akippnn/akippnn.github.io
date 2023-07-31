@@ -67,4 +67,4 @@ other = "{{ .name }} কর্তৃক <a href=\"https://github.com/jackyzha0/q
 # Additions for akippnn.github.io
 
 [discussions_disabled]
-other = "Discussions are disabled for this page"
+other = "এই পৃষ্ঠার জন্য আলাপ নিষ্ক্রিয় করা হয়েছে"

@@ -67,4 +67,4 @@ other = "Створено {{ .name }} з використанням <a href=\"ht
 # Additions for akippnn.github.io
 
 [discussions_disabled]
-other = "Discussions are disabled for this page"
+other = "Обговорення вимкнено для цієї сторінки"
