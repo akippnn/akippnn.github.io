@@ -6,4 +6,4 @@ services:
       - "80:80"
       - "1313:1313"
     volumes:
-      - ".:/www"
+      - ".:/quartz"
